@@ -14,7 +14,7 @@ pipeline {
             steps {
                 script {
                     // Run tests here if you have any
-                    echo 'Running tests...'
+                    echo 'Running tests....'
                 }
             }
         }
